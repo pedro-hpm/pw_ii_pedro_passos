@@ -101,6 +101,7 @@
             }
             $email = "receba@gmail.com";
             echo validaEmail($email);
+            
         ?>
     </pre>
 </body>
